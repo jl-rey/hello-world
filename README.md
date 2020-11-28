@@ -23,3 +23,7 @@ These lines were added
 This will need to be merged with the `master` branch
 
 This branch will also add the `HiThere.md` file.
+
+### Starting another branch `b1`
+
+This branch starts by modifing this file. (was modified on origin)
