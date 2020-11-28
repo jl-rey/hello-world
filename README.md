@@ -27,3 +27,7 @@ This branch will also add the `HiThere.md` file.
 ### Starting another branch `b1`
 
 This branch starts by modifing this file. (was modified on origin)
+
+#### Changed on Local computer
+
+This change is on the b1 branch in the local computer
