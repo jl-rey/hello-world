@@ -24,6 +24,14 @@ This will need to be merged with the `master` branch
 
 This branch will also add the `HiThere.md` file.
 
+### Pushed back to repository
+
+The user local machind version was pushed back to the repo.
+
+### A Change to `master`
+
+This is not in the `b1` branch
+
 ### Starting another branch `b1`
 
 This branch starts by modifing this file. (was modified on origin)
@@ -35,3 +43,4 @@ This change is on the b1 branch in the local computer
 #### Another change by to the branch in the **REPO**
 
 This will need to be pulled and mereged.
+
